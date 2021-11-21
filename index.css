@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:#D089D6 ;
+}
+.pg{
+    text-align: center;
+}
+
+.container{
+    margin: 25px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: auto;
+}
+.cont{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.photo{
+    width: 200px;
+    height: 200px;
+    border: solid 4px black;
+}
+.photo :hover{
+    height: 220px;
+    width: 220px;
+
+
+}
